@@ -1,0 +1,16 @@
+{
+    "routes": [
+        {
+            "name": "home",
+            "path": "/",
+            "method": "GET",
+            "function": "Home@index"
+        },
+        {
+            "name": "data",
+            "path": "/data",
+            "method": "GET",
+            "function": "Data@create"
+        }
+    ]
+}

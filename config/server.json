@@ -1,0 +1,10 @@
+{
+    "application": {
+        "name": "webserver",
+        "version": "0.0.1",
+        "author": "BOURIN"
+    },
+    "server": {
+        "port": 3000
+    }
+}
